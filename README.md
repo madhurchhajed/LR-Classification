@@ -1,2 +1,2 @@
 # LR-Classification
-This is LR classification Matrix
+This is practice jupyter notebook on LR classification 
